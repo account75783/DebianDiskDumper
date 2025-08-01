@@ -27,3 +27,10 @@ sudo apt install gddrescue eject   # util-linux & coreutils are already there
 git clone https://github.com/account75783/DebianDiskDumper.git
 cd DebianDiskDumper
 chmod +x diskdumper.sh
+```
+Tested on:
+
+Ubuntu 24
+
+CD's, DVD's, Not bluray yet (to do)
+
