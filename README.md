@@ -30,7 +30,7 @@ chmod +x diskdumper.sh
 ```
 Tested on:
 
-Ubuntu 24
+Ubuntu 24.04 LTS
 
 CD's, DVD's, Not bluray yet (to do)
 
